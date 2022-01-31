@@ -261,7 +261,7 @@ Watch the playlist below from youtube.
  <details>
 <summary>
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
-7 Cloud services</a>    
+7 - Cloud services</a>    
 </summary>
 
 ### DigitalOcean
@@ -280,7 +280,7 @@ Watch the playlist below from youtube.
  <details>
 <summary>
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
-8 CI / CD</a>    
+8 - CI / CD</a>    
 </summary>
 
 - Gitlab server administration
@@ -307,7 +307,7 @@ Watch the playlist below from youtube.
  <details>
 <summary>
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
-9 Kubernetes</a>    
+9 - Kubernetes</a>    
 </summary>
 - Understading the main concepts and basics
   - contexts
@@ -340,7 +340,7 @@ Watch the playlist below from youtube.
  <details>
 <summary>
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
-10 Monitoring and Centralized logging</a>    
+10 - Monitoring and Centralized logging</a>    
 </summary>
 
 - Grafana 
@@ -357,7 +357,7 @@ Watch the playlist below from youtube.
  <details>
 <summary>
 <a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
-11 IaaC</a>    
+11 - IaaC</a>    
 </summary>
 
 - Understading the IaaC
