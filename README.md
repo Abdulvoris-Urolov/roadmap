@@ -7,8 +7,6 @@ and more reliably. The term DevOps was formed by combining the
 words “development” and “operations” and signifies a cultural 
 shift that bridges the gap between development and operation 
 teams, which historically functioned in siloes.
- 
-![devops](devops.png)
 
 ![devops](devops.jpg)
 
