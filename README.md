@@ -13,8 +13,11 @@ teams, which historically functioned in siloes.
 
 # The roadmap to become Junior DevOps engineer in Udevs
 
-
-## #1 - Linux basics
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
+1 - Linux basics</a>    
+</summary>
 
 ### Commands to learn
 
@@ -94,8 +97,15 @@ teams, which historically functioned in siloes.
 ### Books to read
 
 -  Linux Bible last edition
+</details>
 
-## #2 - Scripting language - Python 3
+<details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
+2 - Scripting language - Python 3</a>    
+</summary>
+
+
 
 You should understand Python basics, how it works, manipulation with files, dirs, unix commands and etc.
 
@@ -103,10 +113,15 @@ You must read the book - **Python for Devops from Noah Gift**.
 
 - Complete the tasks below and you can go further, no need to read the whole book in this part of roadmap. Get familiar with Python and continue reading it.
     - 1. 
-    - 2. 
+    - 2.
+</details>
  
-## #3 - SSH
-
+ <details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
+3 - SSH</a>    
+</summary>
+ 
 - Generate pem files
     - Generate ssh key-pair
     - Copy public key to authorized keys
@@ -119,8 +134,13 @@ You must read the book - **Python for Devops from Noah Gift**.
 - Run remote shell script 
 - Connect to database ssh 
 - SSH tunneling
+</details>
 
-## #4 - Networking basics
+ <details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
+4 - Networking basics</a>    
+</summary>
 
 - TCP / IP
 - OSI Model
@@ -141,8 +161,13 @@ You must read the book - **Python for Devops from Noah Gift**.
 Watch the playlist below from youtube.
 
 - [Networking fundamentals](https://www.youtube.com/watch?v=cNwEVYkx2Kk&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8) from Network Direction channel
+</details>
 
-  ## #5 - Web server
+ <details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
+5 - Web server</a>    
+</summary>
 
 - Web server base concepts 
 - Nginx
@@ -157,7 +182,13 @@ Watch the playlist below from youtube.
   - Track the access logs
   - Delete certificate and stop your web server
 
-##  #6 - Containerinzation
+</details>
+
+ <details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
+6 - Containerinzation</a>    
+</summary>
 
 ### Docker
   - Understanding the main concept of Docker
@@ -225,9 +256,13 @@ Watch the playlist below from youtube.
   - Inspect and rollback that service
   - Track the logs of the service
   - Remove the services and deinitialize your swarm
-  
+</details>
 
-## #7 Cloud services
+ <details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
+7 Cloud services</a>    
+</summary>
 
 ### DigitalOcean
 
@@ -240,7 +275,13 @@ Watch the playlist below from youtube.
 - VPC
 - Firewall
 
-## #8 CI / CD
+</details>
+
+ <details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
+8 CI / CD</a>    
+</summary>
 
 - Gitlab server administration
   - Gitlab Admin area
@@ -261,9 +302,13 @@ Watch the playlist below from youtube.
   - Blue green
   - Canary
 - Rollbacks
+</details>
 
-## #9 Kubernetes
-
+ <details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
+9 Kubernetes</a>    
+</summary>
 - Understading the main concepts and basics
   - contexts
   - namespaces
@@ -290,9 +335,13 @@ Watch the playlist below from youtube.
   - Deploy services on `microservices` namespace
   - Deploy your load balancer on `lb` namespace
   - Write ingress manifest for API gateway
+</details>
 
-
-## #10 Monitoring and Centralized logging
+ <details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
+10 Monitoring and Centralized logging</a>    
+</summary>
 
 - Grafana 
 - Prometheus
@@ -303,12 +352,17 @@ Watch the playlist below from youtube.
 - Loki
 - Fluentd and promtail
   - Scraping container logs
+</details>
 
-
-## #11 IaaC
+ <details>
+<summary>
+<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;
+11 IaaC</a>    
+</summary>
 
 - Understading the IaaC
 - Terraform
   - Theory and main usage
 - Ansible
   - Theory and main usage
+</details>
