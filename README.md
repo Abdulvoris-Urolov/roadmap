@@ -11,7 +11,7 @@ teams, which historically functioned in siloes.
 ![devops](devops.jpg)
 
 
-# The roadmap to become Junior DevOps engineer in Udevs
+# The roadmap to become Junior DevOps engineer 
 
 <details>
 <summary>
